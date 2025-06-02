@@ -1,6 +1,6 @@
 
 Hi there 👋  
-I'm [sakshi] — a passionate developer from [Location] 🚀  
+I'm sakshi — a passionate developer from lck 🚀  
 I love working with [Technologies/Stacks] and building cool projects.
 🛠️ Languages & Tools:  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
